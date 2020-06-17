@@ -1,0 +1,5 @@
+# Ignore config
+webpack.dev.js
+
+# Compiled Assets
+public
